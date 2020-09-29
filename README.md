@@ -1,2 +1,2 @@
-# Algorithm-Library-Initialization
-The library.js containing all the algorithm functions has been created
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
